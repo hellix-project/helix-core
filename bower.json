@@ -1,0 +1,29 @@
+{
+  "name": "helix-core",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hellix-project/helix-core",
+  "authors": [
+    "Josselin  CHEVALAY <josselin54.chevalay@gmail.com>"
+  ],
+  "description": "windows modern ui for ploymer",
+  "main": "index.html",
+  "keywords": [
+    "modern",
+    "ui",
+    "winjs",
+    "windows"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.3.4",
+    "polymer": "Polymer/polymer#~0.3.4"
+  }
+}
